@@ -41,7 +41,6 @@ filtered_df = df[
 
 # Main content
 st.title("Airbnb Analysis Dashboard")
-st.markdown("We are going to analyze a dataset from *Airbnb* in :blue[Madrid]")
 
 # Organize the layout using columns
 col1, col2 = st.columns(2)
